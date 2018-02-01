@@ -8,7 +8,7 @@ date:   2015-04-21 12:12:12
 ---
 
 ### About
-"img/a.jpg"
+<img src="img/b.jpg" />
 
 
 
