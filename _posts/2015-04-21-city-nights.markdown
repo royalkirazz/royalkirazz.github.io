@@ -1,3 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title>Penggunaan Tag Image</title>
+</head>
+<body>
+   <h1>Belajar Tag Gambar</h1>
+   <img src="b.jpg" />
+</body>
+</html
 ---
 title:  "About"
 subtitle: ""
@@ -7,7 +17,6 @@ image: "img/b.jpg"
 date:   2015-04-21 12:12:12
 ---
 
-<img src="img/b.jpg">
 
 
 
