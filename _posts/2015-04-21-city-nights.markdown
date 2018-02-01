@@ -5,7 +5,7 @@
 </head>
 <body>
    <h1>Belajar Tag Gambar</h1>
-   <img src="b.jpg" />
+   <img src="img/b.jpg" />
 </body>
 </html
 ---
