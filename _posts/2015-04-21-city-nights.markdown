@@ -8,9 +8,8 @@ date:   2015-04-21 12:12:12
 ---
 
 ### About
-<img src="d.jpg" />
-<img src="e.jpg" />
-<img src="f.jpg" />
+"img/a.jpg"
+
 
 
 
