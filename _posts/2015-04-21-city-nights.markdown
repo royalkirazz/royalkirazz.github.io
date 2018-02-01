@@ -7,7 +7,6 @@ image: "img/b.jpg"
 date:   2015-04-21 12:12:12
 ---
 
-### About
 <img src="img/b.jpg">
 
 
