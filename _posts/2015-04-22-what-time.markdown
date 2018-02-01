@@ -1,0 +1,15 @@
+---
+title:  "Cara Pemesanan"
+subtitle: "Hubungi Kami"
+author: "Rido Dan Rasyid"
+avatar: "img/authors/wferr.png"
+image: "img/c.jpg"
+date:   2015-04-22 12:12:12
+---
+
+### Kontak
+Untuk Pemesanan Produk Royal Kiraz dapat menghubungi 
+Wa    :0823 8259 4143
+
+Email :Mrasyid253@gmail.com 
+       Ridorandika25@gmail.com
